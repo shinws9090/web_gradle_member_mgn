@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+table {
+	margin: auto;
+	width: 400px;
+	border: 1px soild gray;
+	text-align: center;
+}
+
+.td_title {
+	font-weight: bold;
+	font-size: x-large;
+}
+
+fieldset {
+	margin: auto;
+	width: 400px;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	margin: 20px;
+}
+
+li label {
+	width: 100px;
+	float: left;
+}
+
+h2 {
+	text-align: center;
+}
