@@ -17,7 +17,6 @@
 					<label for="id">아이디</label>
 					<input type="text" name="id" size="20" id="id">
 				</li>
-			
 				<li>
 					<label for="pass">비밀번호</label>
 					<input type="password" name="pass" size="20" required id="pass">
