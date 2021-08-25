@@ -6,7 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title>회원목록</title>
-<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 	<c:choose>
